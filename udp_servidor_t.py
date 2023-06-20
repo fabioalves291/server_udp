@@ -14,10 +14,10 @@ def datalist():
 
 try:
 	os.mkdir('arquivos_servidor')
-finally:
+except:
 	pass
 
-ipserver            = '0.0.0.0'    
+ipserver            = 'localhost'    
 codepage            = 'UTF-8'
 portserver          = 2000
 buffersize          = 512

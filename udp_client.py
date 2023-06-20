@@ -17,11 +17,11 @@ def sair():
 
 try:
 	os.mkdir('arquivos_cliente')
-finally:
+except:
 	pass
 
 
-ipserver    = ''
+ipserver    = 'localhost'
 portserver  = 2000
 codepage    = 'UTF-8'
 buffersize  = 512
