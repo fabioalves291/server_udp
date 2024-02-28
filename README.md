@@ -1,3 +1,4 @@
 # server_udp
     
-Servidor UDP em python de transferência de arquivo, desensolvido durante as práticas de programação de redes de computadores ( tecnologia em redes de computadores).
+Servidor UDP em Python para transferência de arquivos, desenvolvido durante as práticas de programação de redes de computadores (curso de Tecnologia em Redes de Computadores).
+
